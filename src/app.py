@@ -26,6 +26,7 @@ def organizar(diretorio):
 
     # Organiza os arquivos
     for arquivo in diretorio.iterdir():
+        # se for um arquivo
         if arquivo.is_file():
             # Extensão do arquivo com letras minúsculas
             extensao = arquivo.suffix.lower()

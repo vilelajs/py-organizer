@@ -13,4 +13,4 @@ O script cria as seguintes subpastas dentro do diretório fornecido:
 Após a criação das pastas, o script verifica todos os arquivos no diretório especificado e move cada um para a pasta correspondente, com base na sua extensão.
 
 ## Adaptação
-O código é facilmente adaptável! Basta alterar as extensões dentro das listas audios_ext, videos_ext, imagens_ext e documentos_ext para adicionar ou remover tipos de arquivos conforme a necessidade.
+O código é facilmente adaptável! Basta alterar as extensões dentro das listas ``audios_ext``, ``videos_ext``, ``imagens_ext`` e ``documentos_ext`` para adicionar ou remover tipos de arquivos conforme a necessidade.
